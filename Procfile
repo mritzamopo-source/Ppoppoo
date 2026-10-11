@@ -1,1 +1,0 @@
-worker: python filiippppy.py
